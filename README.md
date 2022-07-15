@@ -1,6 +1,10 @@
 # ExMon
 
 **TODO: Add description**
+**TODO: player = ExMon.create_player("Nome", :golpe, :outrogolpe, :cura)**
+**ExMon.start_game(player)**
+**ExMon.make_move(:chute)**
+
 
 ## Installation
 
